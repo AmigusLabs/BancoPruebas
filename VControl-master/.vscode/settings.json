@@ -1,0 +1,15 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/.piolibdeps__": true,
+  },
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/cybermode/.platformio/penv/bin:/Users/cybermode/.platformio/penv:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands",
+    "PLATFORMIO_CALLER": "vscode"
+  },
+  "git.ignoreLimitWarning": true
+}
